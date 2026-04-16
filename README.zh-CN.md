@@ -1,19 +1,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarasa+Term+SC+Nerd&weight=700&size=32&pause=1000&center=true&vCenter=true&width=1024&height=64&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full-Stack+Game+Developer;%F0%9F%8E%B5+Classical+Music+%F0%9F%8E%B9+Piano+%F0%9F%8E%BB+Violin+Cello;%F0%9F%9A%B4%E2%80%8D%E2%99%80%EF%B8%8F+Cycling+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F+Running+%F0%9F%8E%BE+Tennis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarasa+Term+SC+Nerd&weight=700&size=32&pause=1000&center=true&vCenter=true&width=1024&height=64&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%E6%B8%B8%E6%88%8F%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;%F0%9F%8E%B5%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90+%F0%9F%8E%B9%E9%92%A2%E7%90%B4+%F0%9F%8E%BB%E5%B0%8F%E6%8F%90%E7%90%B4+%E5%A4%A7%E6%8F%90%E7%90%B4;%F0%9F%9A%B4%E2%80%8D%E2%99%80%EF%B8%8F%E9%AA%91%E8%A1%8C+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F%E8%B7%91%E6%AD%A5+%F0%9F%8E%BE%E7%BD%91%E7%90%83)](https://git.io/typing-svg)
 
 </div>
 
-# 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | William Chen️
+# 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | 陈威
 
-[**English**](./README.md) | [简体中文](./README.zh-CN.md)
+[English](./README.md) | [**简体中文**](./README.zh-CN.md)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
-### Languages
+### 编程语言
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 </div>
 
-### Databases
+### 数据库
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 </div>
 
-### OS & Platforms
+### 操作系统与平台
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
-### Cloud Services
+### 云服务
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 </div>
 
-### Game Engines
+### 游戏引擎
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 </div>
 
-### Graphics & Physics
+### 图形与物理
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 </div>
 
-### Docs & Diagrams
+### 文档与图表
 
 <div align="center">
 
@@ -107,7 +107,7 @@
 
 </div>
 
-### SSG (Static Site Generator)
+### 静态网站生成
 
 <div align="center">
 
@@ -115,7 +115,7 @@
 
 </div>
 
-### Terminals
+### 终端
 
 <div align="center">
 
@@ -134,7 +134,7 @@
 </div>
 
 
-### Editors & IDEs
+### 编辑器与 IDEs
 
 <div align="center">
 
@@ -152,7 +152,7 @@
 
 </div>
 
-### DevTools & Misc
+### 杂项开发工具
 
 <div align="center">
 
@@ -169,7 +169,7 @@
 
 </div>
 
-## Music
+## 音乐
 
 <div align="center">
 
@@ -220,7 +220,7 @@
 
 <div align="center">
 
-  <p><em>Stay curious. No Music, No Life. Be a better you.</em> 🚀</p>
+  <p><em>保持好奇心。音乐即生命。成为更好的自己。</em> 🚀</p>
 
 </div>
 
@@ -228,6 +228,6 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Thanks_for_visiting-Star-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Thanks for visiting" />
+  <img src="https://img.shields.io/badge/感谢来访-Star-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="感谢来访" />
 
 </div>
