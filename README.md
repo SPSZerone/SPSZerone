@@ -7,7 +7,11 @@
 
 # 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | William Chen️
 
+<div align="center">
+
 [**English**](./README.md) | [简体中文](./README.zh-CN.md)
+
+</div>
 
 ---
 
@@ -169,7 +173,7 @@
 
 </div>
 
-## Music
+## 🎵 Music
 
 <div align="center">
 
@@ -220,7 +224,7 @@
 
 <div align="center">
 
-  <p><em>Stay curious. No Music, No Life. Be a better you.</em> 🚀</p>
+  <p><em>Stay curious. 🎵 No Music, No Life. Be a better you.</em> 🚀</p>
 
 </div>
 

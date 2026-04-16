@@ -7,7 +7,11 @@
 
 # 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | 陈威
 
+<div align="center">
+
 [English](./README.md) | [**简体中文**](./README.zh-CN.md)
+
+</div>
 
 ---
 
@@ -169,7 +173,7 @@
 
 </div>
 
-## 音乐
+## 🎵 音乐
 
 <div align="center">
 
@@ -220,7 +224,7 @@
 
 <div align="center">
 
-  <p><em>保持好奇心。音乐即生命。成为更好的自己。</em> 🚀</p>
+  <p><em>保持好奇心。🎵音乐即生命。成为更好的自己。</em> 🚀</p>
 
 </div>
 
