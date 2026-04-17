@@ -5,7 +5,7 @@
 
 </div>
 
-# 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | 陈威
+# 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | [陈威](https://me.seapianosnow.com/)
 
 <div align="center">
 

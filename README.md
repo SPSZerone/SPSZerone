@@ -5,7 +5,7 @@
 
 </div>
 
-# 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | William Chen️
+# 🧑‍💻🎵🎹🎻🚴‍♀️🏃‍♂️🎾 | [William Chen️](https://me.seapianosnow.com/)
 
 <div align="center">
 
