@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarasa+Term+SC+Nerd&weight=700&size=32&color=B026FF&pause=1000&center=true&vCenter=true&width=1024&height=64&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full-Stack+Game+Developer;%F0%9F%8E%B5+Classical+Music+%F0%9F%8E%B9+Piano+%F0%9F%8E%BB+Violin+Cello;%F0%9F%9A%B4%E2%80%8D%E2%99%80%EF%B8%8F+Cycling+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F+Running+%F0%9F%8E%BE+Tennis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarasa+Term+SC+Nerd&weight=700&size=22&pause=1000&color=B026FF&center=true&vCenter=true&width=512&height=64&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full-Stack+Game+Developer;%F0%9F%8E%B5+Classical+Music+%F0%9F%8E%B9+Piano+%F0%9F%8E%BB+Violin+Cello;%F0%9F%AA%82+Skydiving+%F0%9F%9A%B4%E2%80%8D%E2%99%80%EF%B8%8F+Cycling+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F+Running+%F0%9F%8E%BE+Tennis)](https://readme-typing-svg.demolab.com/demo/)
 
 </div>
 
