@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[My personal website](https://me.seapianosnow.com/)
+[**My personal website**](https://me.seapianosnow.com/)
 
 </div>
 
