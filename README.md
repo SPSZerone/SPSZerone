@@ -227,7 +227,13 @@
 
 <div align="center">
 
-  <p><em>Stay curious. 🎵 No Music, No Life. Be a better you.</em> 🚀</p>
+> Follow Heart.  
+> No Music, No Life.  
+> Inner Peace. Live in the present.  
+> Mind and body as one. Knowledge and action as one.  
+> Less is More. Slow is Fast.  
+> Life without limits. Stay Curious.  
+> Be a Better You.  
 
 </div>
 
